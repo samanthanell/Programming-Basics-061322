@@ -1,0 +1,7 @@
+// In a VS Code file, do the following: 
+// The problem: A computer application needs to be able to identify if a written paragraph is written in First, Second, or Third Person (check out the following if you'd like a refresher on First, Second, and Third Person 
+// Using comments, write out 1 strategy that could be used to solve the problem. We could find a way to loop through each of the words of the paragraph, making the paragraph into an array. With an if else statement or two, if say an "I" is identified then conclude 1st, if "you" then 2nd, etc. 
+// Using comments, create pseudo-code to apply one of the strategies to solve the problem. 
+//First, we would translate the paragraph to an array. Next, we would do an if else loop, if the array[i]=I, vs you or She/He/They, then they are first, second, or third person respectively. console.log a statement saying the paragraph is first, second, third person respectively.
+
+// Using comments, write a short paragraph that answers: What is the hardest part of problem-solving? To not get mixed up in the specifics of solving the problem to not actually solve the problem at all because we're too bogged down in the nitty gritty details instead of addressing the actual goal.
